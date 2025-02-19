@@ -11,7 +11,7 @@ Dengue fever is a major public health concern in the Philippines, with a high in
 ## DATA INFORMATION
 ### Data Source: https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines
 ### About dataset
-Data set contains the recorded number of dengue cases per region of the Philippines from year 2016 to 2020. It can be used to find trends about the disease as well as spatiotemporal analysis that can result into data-driven solution about the trends of the desease for the past 5 years.
+Data set contains the recorded number of dengue cases per region of the Philippines from year 2016 to 2020. It can be used to find trends about the disease as well as spatiotemporal analysis that can result into data-driven solution about the trends of the disease for the past 5 years.
 ### Feature
 | Feature | Description|
 |-|-|
